@@ -34,7 +34,7 @@ class ClosureSleeve {
         self.closure = closure
         objc_setAssociatedObject(attachTo, "[\(arc4random())]", self, .OBJC_ASSOCIATION_RETAIN)
     }
-    @objc func invoke() {
+    @objc func invoke() { 
         closure()
     }
 }
