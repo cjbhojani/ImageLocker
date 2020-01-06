@@ -1,0 +1,152 @@
+PODS:
+  - ActionSheetPicker-3.0 (2.4.1)
+  - Alamofire (4.9.1)
+  - BSGridCollectionViewLayout (1.2.5)
+  - BSImagePicker (2.10.3):
+    - BSGridCollectionViewLayout (= 1.2.5)
+    - BSImageView (= 1.0.3)
+  - BSImageView (1.0.3)
+  - EMAlertController (1.0.2)
+  - FSPagerView (0.8.3)
+  - IQKeyboardManagerSwift (6.5.4)
+  - MaterialComponents/AnimationTiming (100.0.0)
+  - MaterialComponents/Buttons (100.0.0):
+    - MaterialComponents/Elevation
+    - MaterialComponents/Ink
+    - MaterialComponents/private/Math
+    - MaterialComponents/Ripple
+    - MaterialComponents/ShadowElevations
+    - MaterialComponents/ShadowLayer
+    - MaterialComponents/Shapes
+    - MaterialComponents/Typography
+    - MDFInternationalization
+    - MDFTextAccessibility
+  - MaterialComponents/Elevation (100.0.0):
+    - MaterialComponents/private/Color
+    - MaterialComponents/private/Math
+  - MaterialComponents/Ink (100.0.0):
+    - MaterialComponents/private/Color
+    - MaterialComponents/private/Math
+  - MaterialComponents/OverlayWindow (100.0.0):
+    - MaterialComponents/private/Application
+  - MaterialComponents/private/Application (100.0.0)
+  - MaterialComponents/private/Color (100.0.0)
+  - MaterialComponents/private/KeyboardWatcher (100.0.0):
+    - MaterialComponents/private/Application
+  - MaterialComponents/private/Math (100.0.0)
+  - MaterialComponents/private/Overlay (100.0.0)
+  - MaterialComponents/Ripple (100.0.0):
+    - MaterialComponents/AnimationTiming
+    - MaterialComponents/private/Color
+    - MaterialComponents/private/Math
+  - MaterialComponents/ShadowElevations (100.0.0)
+  - MaterialComponents/ShadowLayer (100.0.0):
+    - MaterialComponents/ShadowElevations
+  - MaterialComponents/Shapes (100.0.0):
+    - MaterialComponents/private/Color
+    - MaterialComponents/private/Math
+    - MaterialComponents/ShadowLayer
+  - MaterialComponents/Snackbar (100.0.0):
+    - MaterialComponents/AnimationTiming
+    - MaterialComponents/Buttons
+    - MaterialComponents/Elevation
+    - MaterialComponents/OverlayWindow
+    - MaterialComponents/private/Application
+    - MaterialComponents/private/KeyboardWatcher
+    - MaterialComponents/private/Math
+    - MaterialComponents/private/Overlay
+    - MaterialComponents/ShadowElevations
+    - MaterialComponents/ShadowLayer
+    - MaterialComponents/Typography
+  - MaterialComponents/Typography (100.0.0):
+    - MaterialComponents/private/Application
+    - MaterialComponents/private/Math
+  - MBProgressHUD (1.1.0)
+  - MDFInternationalization (2.0.0)
+  - MDFTextAccessibility (2.0.0)
+  - ReachabilitySwift (5.0.0)
+  - RxAlamofire (4.4.1):
+    - RxAlamofire/Core (= 4.4.1)
+  - RxAlamofire/Core (4.4.1):
+    - Alamofire (~> 4.8)
+    - RxSwift (~> 4.5)
+  - RxCocoa (4.5.0):
+    - RxSwift (>= 4.4.2, ~> 4.4)
+  - RxSwift (4.5.0)
+  - SDWebImage (5.4.1):
+    - SDWebImage/Core (= 5.4.1)
+  - SDWebImage/Core (5.4.1)
+  - SKPhotoBrowser (6.1.0)
+  - SkyFloatingLabelTextField (3.8.0)
+  - SVPinView (1.0.7)
+  - SwiftGifOrigin (1.7.0)
+
+DEPENDENCIES:
+  - ActionSheetPicker-3.0
+  - Alamofire
+  - BSImagePicker
+  - EMAlertController
+  - FSPagerView
+  - IQKeyboardManagerSwift
+  - MaterialComponents/Snackbar
+  - MBProgressHUD (~> 1.1.0)
+  - ReachabilitySwift
+  - RxAlamofire
+  - RxCocoa (~> 4.0)
+  - RxSwift (~> 4.0)
+  - SDWebImage
+  - SKPhotoBrowser
+  - SkyFloatingLabelTextField
+  - SVPinView
+  - SwiftGifOrigin
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - ActionSheetPicker-3.0
+    - Alamofire
+    - BSGridCollectionViewLayout
+    - BSImagePicker
+    - BSImageView
+    - EMAlertController
+    - FSPagerView
+    - IQKeyboardManagerSwift
+    - MaterialComponents
+    - MBProgressHUD
+    - MDFInternationalization
+    - MDFTextAccessibility
+    - ReachabilitySwift
+    - RxAlamofire
+    - RxCocoa
+    - RxSwift
+    - SDWebImage
+    - SKPhotoBrowser
+    - SkyFloatingLabelTextField
+    - SVPinView
+    - SwiftGifOrigin
+
+SPEC CHECKSUMS:
+  ActionSheetPicker-3.0: d236f0b663123e4b404a3bc04b338c1e805ac910
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  BSGridCollectionViewLayout: 333dcb457a5a3bdd9212607ab5756553dcfe06cb
+  BSImagePicker: 07404254f2fcdaf5a2eb403c0f8c337267ce8738
+  BSImageView: a149459433a2687157d034c78e059d30ac7f2544
+  EMAlertController: 471e4630309e5ae843ef71f502d6b58525b22c60
+  FSPagerView: 670405b2f18e2a87fa37f20b00de783e562c25a8
+  IQKeyboardManagerSwift: 2dde0fc70110e8eac7ccce2a46fdbec6a850b414
+  MaterialComponents: b4cc6c1649a566d70bd72096f3e1aae2c3701e4f
+  MBProgressHUD: e7baa36a220447d8aeb12769bf0585582f3866d9
+  MDFInternationalization: 010097556d6b09d2c4ea38e0820ea6d37be6a314
+  MDFTextAccessibility: 85c09a1bd9c321f494348e632a25063bcda35a53
+  ReachabilitySwift: 985039c6f7b23a1da463388634119492ff86c825
+  RxAlamofire: ed65f451f5a9a59419b0b9e705043dc01410edd9
+  RxCocoa: cbf70265dc65a981d4ac982e513c10cf23df24a0
+  RxSwift: f172070dfd1a93d70a9ab97a5a01166206e1c575
+  SDWebImage: 29c340dbdcef342bb13125553f4e19ce056b07a7
+  SKPhotoBrowser: 343de95d89dc7913763c5dda243cc6e606e4a168
+  SkyFloatingLabelTextField: 5a338412114808e961fe2d14ea2c5452c8b6e4aa
+  SVPinView: 6c1da57e4a1273298802f460c60511ba10f7c831
+  SwiftGifOrigin: fbd6cf37afcfcf97a5c3db996ddc0492e5c5c145
+
+PODFILE CHECKSUM: 32bd2214d825222df786b40da4b2efdbaee7db5d
+
+COCOAPODS: 1.7.0.beta.3
